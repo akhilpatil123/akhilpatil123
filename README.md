@@ -8,13 +8,13 @@
 
 </p>
 I am recent engineering graduate and full stack developer passionate about building engineering products using new technologies. I have hands-on experience of designing, developing and maintaining end to end, highly scalable, robust applications. I am skilled in Data Structures, Operating Systems, Database. 
-</br>
+</br></br>
 - 💬 Ask me about **C, C++, Java, Angular, Web Technologies**    
 </br>
-- 📫 Drop me Mail @ **akhilpatil123@gmail.com**
+- 📫 Drop me Mail @ mailto:akhilpatil123@gmail.com
 </br>
 - 📲 Call me @ +91 7588394246
-</br>
+</br></br>
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
