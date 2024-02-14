@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! I'm Akhil Patil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<h3 align="center">Software Engineer(Backend)</h3>
+<h3 align="center">Software Engineer (Backend)</h3>
 <p align='center'>
-<a href="https://www.linkedin.com/in/akhilpatil123/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp
+<!-- <a href="https://www.linkedin.com/in/akhilpatil123/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp -->
 <!-- <a href="https://twitter.com/akhilpatil123"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;
 <a href="https://instagram.com/akhilpatil02"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; -->
 
@@ -14,7 +14,7 @@ I am Backend software Engineer having experience if 3.5+ YOE, passionate about b
 - 📫 Drop me Mail @ <a href="mailto:akhilpatil123@gmail.com">akhilpatil123@gmail.com</a>
 </br>
 - 📲 Call me @ +91 7588394246
-</br></br>
+<!-- </br></br>
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -25,7 +25,7 @@ I am Backend software Engineer having experience if 3.5+ YOE, passionate about b
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> -->
 
 </p>
 <!--
