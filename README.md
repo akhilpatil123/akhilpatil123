@@ -1,15 +1,15 @@
 <h1 align="center">Hi there! I'm Akhil Patil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Software Engineer(Backend)</h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/akhilpatil123/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp
-<a href="https://twitter.com/akhilpatil123"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;
-<a href="https://instagram.com/akhilpatil02"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<!-- <a href="https://twitter.com/akhilpatil123"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;
+<a href="https://instagram.com/akhilpatil02"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp; -->
 
 </p>
-I am recent engineering graduate and full stack developer passionate about building engineering products using new technologies. I have hands-on experience of designing, developing and maintaining end to end, highly scalable, robust applications. I am skilled in Data Structures, Operating Systems, Database. 
+I am Backend software Engineer having experience if 3.5+ YOE, passionate about building engineering products using new technologies. I have hands-on experience of designing, developing and maintaining end to end, highly scalable, robust applications. I have hands-on experience of working in technologies such as Java, Spring boot, Microservices, RESTful API, MySQL, Git, etc. I have good understanding of System design, Data Structures, Operating Systems, Database. 
 </br></br>
-- 💬 Ask me about <b>C, C++, Java, Angular, Web Technologies</b>   
+- 💬 Ask me about <b>Java, Spring boot, Microservices, REST, System Design</b>   
 </br>
 - 📫 Drop me Mail @ <a href="mailto:akhilpatil123@gmail.com">akhilpatil123@gmail.com</a>
 </br>
